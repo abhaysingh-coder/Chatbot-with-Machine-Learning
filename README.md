@@ -1,4 +1,4 @@
-🤖 Chatbot with Machine Learning
+# 🤖 Chatbot with Machine Learning
 
 Chatbot with Machine Learning is an intelligent conversational system developed using Python and Machine Learning techniques. The project applies Natural Language Processing (NLP) to understand user inputs, classify intents, and generate meaningful responses. It demonstrates a complete pipeline from data preprocessing and model training to real-time chatbot interaction.
 
